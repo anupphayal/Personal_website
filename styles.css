@@ -30,3 +30,22 @@ div .p {
   border: 1px solid rgb(230, 230, 230); 
 }
 
+.section-title {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  margin: 0 0 20px 0;
+  gap: 12px;
+}
+
+.section-title::before,
+.section-title::after {
+  content: "";
+  flex: 1;
+  border-top: 1px solid #ccc;
+}
+
+.section-title strong {
+  white-space: nowrap;
+  text-align: center;
+}

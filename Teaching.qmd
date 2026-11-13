@@ -36,7 +36,7 @@ CMR 549 Political violence & Insurgency,
 
 CMR 587 Conflict, crisis and disaster management in an international context
 
-CMR 533 Peacekeeping,
+CMR 533 Peacekeeping
 
 **Undergraduate**: IR
 
@@ -44,10 +44,12 @@ HON Maritime Security
 
 PLS 220 Intro to International Relations,
 
+PLS 201 Research Methods,
+
 PLS 424 National & International Security,
 
 PLS 428 Global Terrorism,
 
 PLS 421 Ethnic Conflict,
 
-PLS 499 Maritime Security (Honors)
+
